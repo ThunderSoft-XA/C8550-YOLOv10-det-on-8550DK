@@ -1,0 +1,1 @@
+# C8550-YOLOv10-det-on-8550DK
